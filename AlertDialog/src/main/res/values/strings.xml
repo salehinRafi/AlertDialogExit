@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlertDialogTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="PopupMessage">Anda telah Berjaya menambabh nilai Sebanyak RM200!!</string>
+    <string name="btn_show_dialog">Show Custom Dialog</string>
+    <string name="content">Gambar sahaja</string>
+    <string name="btn_okey_dialog">OK</string>
+</resources>
